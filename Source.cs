@@ -69,6 +69,7 @@ namespace multitool
         }
         static void Menu()
         {
+            //ts is made by an1spark pls dont steal my code :3
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("\n1.) Send A Webhook Message");
             Console.ForegroundColor = ConsoleColor.Red;
